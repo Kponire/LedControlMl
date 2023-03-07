@@ -8,3 +8,10 @@ pip install mediapipe
 ```
 ## Connection
 ![My Remote Image](https://content.instructables.com/F9G/N43W/JRGOOJJQ/F9GN43WJRGOOJJQ.jpg)
+## usage 
+- Download the project LedControlMl zip file
+- Unzip the file
+- Run the files on a python terminal or compiler
+- Connect your leds to your Arduino MCU  properly using the correct pinmodes
+- Open your arduino.exe software
+- Go to files, then examples, then locate the library called StandardFirmata
