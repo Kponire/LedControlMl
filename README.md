@@ -7,4 +7,4 @@ pip install pip install opencv-python
 pip install mediapipe
 ```
 ## Connection
-![My Remote Image](https://content.instructables.com/F9G/N43W/JRGOOJJQ/F9GN43WJRGOOJJQ.jpg auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=150)
+![My Remote Image](https://content.instructables.com/F9G/N43W/JRGOOJJQ/F9GN43WJRGOOJJQ.jpg)
