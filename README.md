@@ -7,4 +7,4 @@ pip install pip install opencv-python
 pip install mediapipe
 ```
 ## Connection
-![My Remote Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.instructables.com%2FFlowing-LED-Lights-With-Arduino-Uno-R3%2F&psig=AOvVaw28tOHziZz0ZHSArYDOPHAS&ust=1678284720181000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKjR9ev_yf0CFQAAAAAdAAAAABAE)
+![My Remote Image](https://content.instructables.com/F9G/N43W/JRGOOJJQ/F9GN43WJRGOOJJQ.jpg auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=150)
