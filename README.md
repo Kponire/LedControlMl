@@ -1,6 +1,7 @@
 # Installation
 Install [python](https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe) 
 
+Install [Arduino](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.0.4_Windows_64bit.exe?_gl=1*1pdytnc*_ga*MTkzMTg5NDYxMy4xNjc4MTk5NTMy*_ga_NEXN8H46L5*MTY3ODE5OTUzMi4xLjEuMTY3ODE5OTYxNS4wLjAuMA..)
 Use the package manager pip to install
 ```bash
 pip install pip install opencv-python
