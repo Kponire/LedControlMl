@@ -5,7 +5,7 @@ Install [Arduino](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.0.4_Win
 
 Use the package manager pip to install
 ```bash
-pip install pip install opencv-python
+pip install opencv-python
 pip install mediapipe
 ```
 ## Connection
